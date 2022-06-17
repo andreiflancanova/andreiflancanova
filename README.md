@@ -32,7 +32,6 @@ I had always searched for activities capable of transform and change life of peo
   <img alt="andreiflancanova's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=andreiflancanova&theme=dracula&hide_border=true"/></a>
 </div>  
     
-#### Languages:
 <div align="left">
 <b>Front-End:</b> 
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
