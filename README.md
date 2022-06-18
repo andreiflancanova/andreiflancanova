@@ -30,7 +30,7 @@ I had always searched for activities capable of transform and change life of peo
 <div align="center">    
   <a href="https://github.com/andreiflancanova">       
   <img alt="andreiflancanova's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=andreiflancanova&theme=dracula&hide_border=true"/></a>
-</div>  
+</div><br>  
     
 <div align="left">
 <b>Front-End:</b> 
