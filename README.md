@@ -27,11 +27,6 @@ I had always searched for activities capable of transform and change life of peo
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andreiflancanova&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div><br>
 
-<div align="center">    
-  <a href="https://github.com/andreiflancanova">       
-  <img alt="andreiflancanova's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=andreiflancanova&theme=dracula&hide_border=true"/></a>
-</div><br>  
-    
 <div align="left">
 <b>Front-End:</b> 
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
