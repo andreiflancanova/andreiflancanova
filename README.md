@@ -18,7 +18,7 @@ Hi, I'm Andrei! Thanks for visiting my GitHub profile! <br>
 I'm a tech and data analysis enthusiast. I've learned to program by myself and always looked for integrate this passion with my academic and professional journey.<br>
 I have a Bachelor's degree in Civil Engineering and I am currently studying for a Masters in Computational Modeling. In addition, I am also participating in a training bootcamp in order to graduate as Jr Full Stack Web Java Developer. <br>
 My present learning interests focus on Java, React, Spring and APDL.
-I had always searched for activities capable of transform and change life of people at my surroundings. And what about you: What do you want to transform?
+I had always searched for activities capable of transform and change life of people at my surroundings. And what about you: What do you want to change?
 </p>
 
 <div align="center">
