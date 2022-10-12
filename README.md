@@ -7,8 +7,8 @@
 <p align="justify"> 
 Olá, eu sou o Andrei! Obrigado por visitar o meu perfil! <br>
 Sou uma pessoa apaixonada por tecnologia e análise de dados. Aprendi a programar por conta própria e sempre busquei integrar esta minha paixão com a minha trajetória acadêmica e profissional. <br>
-Sou graduado em Engenharia Civil e atualmente estou cursando Mestrado em Modelagem Computacional. Além disso, também estou participando de um bootcamp para formação como Desenvolvedor Web Java Full Stack Jr. <br>
-Meus interesses de aprendizado no momento se tratam sobre Java, React, Spring e APDL.
+Sou graduado em Engenharia Civil e atualmente estou cursando Mestrado em Modelagem Computacional. Além disso, também sou formado Desenvolvedor Web Java Full Stack Jr. pela Generation Brasil. Hoje, trabalho como Analista de Sistemas na GFT Technologies Brasil.<br>
+Meus interesses de aprendizado no momento se tratam sobre Java, React, Spring e Python.
 Sempre busquei atividades que transformassem a realidade e a vida das pessoas ao meu redor. E você: O que quer transformar?
 </p>
 
@@ -16,8 +16,8 @@ Sempre busquei atividades que transformassem a realidade e a vida das pessoas ao
 <p align="justify"> 
 Hi, I'm Andrei! Thanks for visiting my GitHub profile! <br>
 I'm a tech and data analysis enthusiast. I've learned to program by myself and always looked for integrate this passion with my academic and professional journey.<br>
-I have a Bachelor's degree in Civil Engineering and I am currently studying for a Masters in Computational Modeling. In addition, I am also participating in a training bootcamp in order to graduate as Jr Full Stack Web Java Developer. <br>
-My present learning interests focus on Java, React, Spring and APDL.
+I have a Bachelor's degree in Civil Engineering and I am currently studying for a Masters in Computational Modeling. In addition, I am also graduated as an Entry-Level Full Stack Web Java Developer. Nowadays, I work as a Systems Analyst at GFT Technologies Brasil.<br>
+My present learning interests focus on Java, React, Spring and Python.
 I had always searched for activities capable of transform and change life of people at my surroundings. And what about you: What do you want to change?
 </p>
 
