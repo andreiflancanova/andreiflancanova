@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=0069FFF6&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Bachelor+of+Civil+Engineering+(FURG%2F2021);MSc.+in+Computational+Modeling+(FURG%2F2024);Jr.+Full+Stack+Web+Java+Developer"(https://git.io/typing-svg)>
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=0069FFF6&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Bachelor+of+Civil+Engineering+(FURG%2F2021);MSc.+in+Computational+Modeling+(FURG%2F2024);Full+Stack+Web+Java+Developer;AWS DevOps"(https://git.io/typing-svg)>
  </p>
 
 <h2 align="center">Sobre mim</h2>
