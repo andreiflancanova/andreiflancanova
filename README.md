@@ -44,5 +44,3 @@ I had always searched for activities capable of transform and change life of peo
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />  
 <img align="center" alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />  
 </div><br>
-
-  ![Snake animation](https://github.com/andreiflancanova/andreiflancanova/blob/output/github-contribution-grid-snake.svg)
