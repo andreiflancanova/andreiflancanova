@@ -19,7 +19,8 @@ I had always searched for activities capable of transform and change life of peo
 
 <div align="center">
 <a href="https://github.com/andreiflancanova">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreiflancanova&layout=compact&langs_count=10&theme=dracula&exclude_repo=PythonBasics"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreiflancanova&layout=compact&langs_count=10&theme=dracula&hide=jupyter%20notebook"/>
+
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreiflancanova&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&exclude_repo=PythonBasics"/>
 </div><br>
 
